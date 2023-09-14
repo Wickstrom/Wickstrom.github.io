@@ -84,10 +84,10 @@ author:
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Tromsø, Norway"
-  employer         :
+  employer         : "UiT The Arctic University of Norway"
   pubmed           : 
   googlescholar    : "https://scholar.google.no/citations?user=gUd35ngAAAAJ&hl=no"
-  email            :
+  email            : "kristoffer.k.wickstrom@uit.no"
   researchgate     :  "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,10 +103,10 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-1395-7154"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
