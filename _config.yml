@@ -84,10 +84,10 @@ author:
   avatar           : "profile-pic-kw.png"
   bio              : "Associate professor in machine learning at UiT The Arctic University of Norway"
   location         : "Tromsø, Norway"
-  employer         : "UiT The Arctic University of Norway"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.no/citations?user=gUd35ngAAAAJ&hl=no"
-  email            : "kristoffer.k.wickstrom@uit.no"
+  email            : 
   researchgate     :  "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
