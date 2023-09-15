@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+======
 I am an associate professor in the [Machine Learning Group](https://machine-learning.uit.no) at UiT The Arctic University of Norway.
 
 I have been a guest researcher in the Image Processing Laboratory at the University of Valencia with Professor Gustau Camps-Valls and in the Understandable Machine Intelligence Laboratory at Technical University of Berlin with Professor Marina M.-C. Höhne.
@@ -15,7 +16,7 @@ I have been a guest researcher in the Image Processing Laboratory at the Univers
 Please see my [Google Scholar for list of publications](https://scholar.google.no/citations?user=gUd35ngAAAAJ&hl=no).
 
 
-# Recent news
+### Recent news
 ======
 * Under
 * Construction
