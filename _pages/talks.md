@@ -8,5 +8,6 @@ title: Talks
 * Talk at the Norwegian conference on image processing and machine learning (June, 2023).
 * Invited tutorial at the Norwegian artificial intelligence symposium (May, 2022).
 * Talk at the Visual Intelligence research centre (February, 2021).
+* Talk at the Northern Lights Deep Learning conference (January, 2021).
 * Invited talk at the Big Insight research centre (September, 2020).
 * Lightning talk at information theory workshop at NeurIPS 2019 (December, 2019).
