@@ -20,6 +20,7 @@ Please see my [Google Scholar](https://scholar.google.no/citations?user=gUd35ngA
 ### Recent news
 ======
 * Invited lecturer for summer school on self-supervisd learning at the Technical University of Denmark (August, 2023).
+* Paper accepted in TMLR (July, 2023).
 * Developed and taught summer school on self-supervised learning as part of the NORA research school (June, 2023).
 * Organized gathering for AI enthusiasts in Tromsø (June, 2023).
 * Paper accepted in IJCV 2023 (March, 2023).
