@@ -21,4 +21,6 @@ Please see my [Google Scholar](https://scholar.google.no/citations?user=gUd35ngA
 ======
 * Invited lecturer for summer school on self-supervisd learning at the Technical University of Denmark (August, 2023).
 * Developed and taught summer school on self-supervised learning as part of the NORA research school (June, 2023).
-* under construction
+* Organized gathering for AI enthusiasts in Tromsø (June, 2023).
+* Defended PhD with opponents Assoc. Prof. Irina Voiculescuand Prof. Lars Kai Hansen (October, 2022).
+* Funding granted on innovation project for PET imaging (September, 2022).
