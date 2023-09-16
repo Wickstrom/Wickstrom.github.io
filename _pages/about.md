@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an associate professor in the [Machine Learning Group](https://machine-learning.uit.no) at UiT The Arctic University of Norway. My main research areas is deep learning, with a particular focus on explainability and learning with limited labeles. I am also interested in uncertainty modeling, information theory, kernel methods, and medical image analysis.
+I am an associate professor in the [Machine Learning Group](https://machine-learning.uit.no) at UiT The Arctic University of Norway. My main research area is deep learning, with a particular focus on explainability and learning with limited labeles. I am also interested in uncertainty modeling, information theory, kernel methods, and medical image analysis.
 
 I am co-program chair for the yearly [Northern Light Deep Learning conference](https://www.nldl.org). In the past, I have been part of the steering committee for the [Visual Intelligence Gradudate School](https://www.visual-intelligence.no/about/vigs) and part of the student council for the NORA Research School.
 
