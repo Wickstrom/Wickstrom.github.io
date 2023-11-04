@@ -19,6 +19,7 @@ Please see [Google Scholar](https://scholar.google.no/citations?user=gUd35ngAAAA
 
 ### Recent news
 ======
+* Invited talk at AI Research Moonshots Workshop hosted by the Pioneer Centre for Artificial Intelligence (October, 2023).
 * Invited lecturer for summer school on self-supervisd learning at the Technical University of Denmark (August, 2023).
 * Paper accepted in TMLR (July, 2023).
 * Organized course on self-supervised learning as part of the NORA research school (June, 2023).
