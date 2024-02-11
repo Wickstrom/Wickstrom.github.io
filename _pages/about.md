@@ -14,12 +14,13 @@ I am co-program chair for the yearly [Northern Light Deep Learning conference](h
 
 I have previously been a guest researcher in the Image Processing Laboratory at the University of Valencia with Professor Gustau Camps-Valls and in the Understandable Machine Intelligence Laboratory at Technical University of Berlin with Professor Marina M.-C. Höhne.
 
-Please see [Google Scholar](https://scholar.google.no/citations?user=gUd35ngAAAAJ&hl=no) for a list of my publications.
+See [Google Scholar](https://scholar.google.no/citations?user=gUd35ngAAAAJ&hl=no) for a list of my publications.
 
 
 ### Recent news
 ======
-* [Opinion piece published in regional norwegian newspaper nordlys.no (December, 2023).]([https://link-url-here.org](https://www.nordnorskdebatt.no/hvordan-bor-fotavtrykket-av-regjeringens-satsing-pa-kunstig-intelligens-se-ut-i-nord-norge-i-2030/o/5-124-280985))
+* [Interviewed by national Norwegian news agency TV2 about Meta's policy on labeling AI-generated images (February, 2024).](https://www.tv2.no/nyheter/utenriks/facebook-skal-merke-ki-bilder-stor-nyhet/16441946/)
+* [Opinion piece published in regional norwegian newspaper nordlys.no (December, 2023).](https://www.nordnorskdebatt.no/hvordan-bor-fotavtrykket-av-regjeringens-satsing-pa-kunstig-intelligens-se-ut-i-nord-norge-i-2030/o/5-124-280985)
 * Opinion piece published in national norwegian online newspaper khrono.no (November, 2023).
 * Invited talk at AI Research Moonshots Workshop hosted by the Pioneer Centre for Artificial Intelligence (October, 2023).
 * Invited lecturer for summer school on self-supervisd learning at the Technical University of Denmark (August, 2023).
