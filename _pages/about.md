@@ -19,7 +19,7 @@ Please see [Google Scholar](https://scholar.google.no/citations?user=gUd35ngAAAA
 
 ### Recent news
 ======
-* Opinion piece published in regional norwegian newspaper nordlys.no (December, 2023).
+* [Opinion piece published in regional norwegian newspaper nordlys.no (December, 2023).]([https://link-url-here.org](https://www.nordnorskdebatt.no/hvordan-bor-fotavtrykket-av-regjeringens-satsing-pa-kunstig-intelligens-se-ut-i-nord-norge-i-2030/o/5-124-280985))
 * Opinion piece published in national norwegian online newspaper khrono.no (November, 2023).
 * Invited talk at AI Research Moonshots Workshop hosted by the Pioneer Centre for Artificial Intelligence (October, 2023).
 * Invited lecturer for summer school on self-supervisd learning at the Technical University of Denmark (August, 2023).
