@@ -17,9 +17,9 @@ I have either given some or all lectures in the following courses:
 
 ## Course development
 
-I have either fully developed or co-developed the curriculum or parts of the curriculum for the following courses:
+I have either fully or co-developed parts of the following courses:
 
-* Deep Learning (FYS-3012/8012): Spring 2024 (UiT).
+* Deep Learning (FYS-3012/8012): Spring 2019 (UiT).
 * Summer School on Self-Supervised learning: Spring 2023 (NORA).
 * Special Curriculum in Self-Supervised Learning: Autumn 2021 (UiT).
 * Special Curriculum in Information Theory: Autumn 2019 (UiT).
