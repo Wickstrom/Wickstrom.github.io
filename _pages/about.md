@@ -18,6 +18,7 @@ See [Google Scholar](https://scholar.google.no/citations?user=gUd35ngAAAAJ&hl=no
 
 ### Recent news
 ======
+* Invited talk at yearly conference of the Confederation of Norwegian Enterprise Arctic (March, 2024).
 * [Interviewed by national Norwegian news agency TV2 about Meta's policy on labeling AI-generated images (February, 2024).](https://www.tv2.no/nyheter/utenriks/facebook-skal-merke-ki-bilder-stor-nyhet/16441946/)
 * [Opinion piece published in regional norwegian newspaper nordlys.no (December, 2023).](https://www.nordnorskdebatt.no/hvordan-bor-fotavtrykket-av-regjeringens-satsing-pa-kunstig-intelligens-se-ut-i-nord-norge-i-2030/o/5-124-280985)
 * [Opinion piece published in national norwegian online newspaper khrono.no (November, 2023).](https://www.khrono.no/ja-takk-til-krysskulturelle-prosjekter-drevet-fram-av-teknologiutvikling/827099)
