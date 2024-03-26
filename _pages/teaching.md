@@ -14,6 +14,7 @@ I have either given some or all lectures in the following courses:
 * Pattern Recognition (FYS-3012/8012): Autumn 2019 (UiT).
 * Advanced Topics in Machine Learning (02901): Autumn 2023 (DTU).
 * Self-Supervised Learning (Summer School): Spring 2023 (NORA).
+* Generative Artificial Intelligence (FYS-3810): Spring 2024 (UiT).
 
 ## Course development
 
