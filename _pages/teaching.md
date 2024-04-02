@@ -8,7 +8,7 @@ This page presents a summary of my various teaching activities, mostly at UiT Th
 
 ## Lecturing
 
-I have either given some or all lectures in the following courses:
+I have given lectures in the following courses:
 
 * Deep Learning (FYS-3012/8012): Spring 2024 (UiT).
 * Pattern Recognition (FYS-3012/8012): Autumn 2019 (UiT).
