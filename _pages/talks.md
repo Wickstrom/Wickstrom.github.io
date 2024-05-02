@@ -4,6 +4,7 @@ author_profile: true
 title: Talks
 ---
 
+* Invited talk at national meeting for technology transfer offices in Norway (April, 2024).
 * Invited talk at yearly conference of The Confederation of Norwegian Enterprise Arctic (March, 2024).
 * Invited talk at AI Research Moonshots Workshop hosted by the Pioneer Centre for Artificial Intelligence (October, 2023).
 * Invited lecturer for summer school at the Technical University of Denmark (August, 2023).
