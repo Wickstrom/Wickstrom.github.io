@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an associate professor in the [Machine Learning Group](https://machine-learning.uit.no) at UiT The Arctic University of Norway and a principal investigator in the [SFI Visual Intelligence](https://www.visual-intelligence.no/). My main research area is deep learning, with a particular focus on explainability and learning with limited labels. I am also interested in uncertainty modeling, information theory, kernel methods, and medical image analysis.
+I am an associate professor in the [Machine Learning Group](https://machine-learning.uit.no) at UiT The Arctic University of Norway and a principal investigator in the [SFI Visual Intelligence](https://www.visual-intelligence.no/) and the [SFF Integreat](https://www.integreat.no/). My main research area is deep learning, with a particular focus on explainability and learning with limited labels. I am also interested in uncertainty modeling, information theory, kernel methods, and medical image analysis.
 
-I am co-chair for the winter school of the yearly [Northern Light Deep Learning conference](https://www.nldl.org). In the past, I have been part of the steering committee for the [Visual Intelligence Gradudate School](https://www.visual-intelligence.no/about/vigs), part of the student council for the NORA Research School, and a board member for the Norwegian Association for Image Processing and Machine Learning.
+I am co-chair for the winter school of the yearly [Northern Light Deep Learning conference](https://www.nldl.org) and a board member for the Norwegian Association for Image Processing and Machine Learning. In the past, I have been part of the steering committee for the [Visual Intelligence Gradudate School](https://www.visual-intelligence.no/about/vigs) and part of the student council for the NORA Research School.
 
 I have previously been a guest researcher in the Image Processing Laboratory at the University of Valencia with Professor Gustau Camps-Valls and in the Understandable Machine Intelligence Laboratory at Technical University of Berlin with Professor Marina M.-C. Höhne.
 
@@ -18,6 +18,7 @@ See [Google Scholar](https://scholar.google.no/citations?user=gUd35ngAAAAJ&hl=no
 
 ### Recent news
 ======
+* [Interviewed on national Norwegian radio about AI research (June, 2024)](https://radio.nrk.no/serie/distriktsprogram-troms/sesong/202406/DKTR01011424).
 * Paper accepted at ICML 2024 (May, 2024).
 * Invited talk at national meeting for technology transfer offices in Norway (April, 2024).
 * Invited talk at yearly conference of the Confederation of Norwegian Enterprise Arctic (March, 2024).
