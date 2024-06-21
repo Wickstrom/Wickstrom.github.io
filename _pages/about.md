@@ -9,9 +9,9 @@ redirect_from:
 
 I am an associate professor in the [Machine Learning Group](https://machine-learning.uit.no) at UiT The Arctic University of Norway and a principal investigator in the [SFI Visual Intelligence](https://www.visual-intelligence.no/) and the [SFF Integreat](https://www.integreat.no/). My main research area is deep learning, with a particular focus on explainability and learning with limited labels. I am also interested in uncertainty modeling, information theory, kernel methods, and medical image analysis.
 
-I am co-chair for the winter school of the yearly [Northern Light Deep Learning conference](https://www.nldl.org) and a board member for the Norwegian Association for Image Processing and Machine Learning. In the past, I have been part of the steering committee for the [Visual Intelligence Gradudate School](https://www.visual-intelligence.no/about/vigs) and part of the student council for the NORA Research School.
+I am co-chair for the winter school of the yearly [Northern Light Deep Learning conference](https://www.nldl.org) and a board member for the [Norwegian Association for Image Processing and Machine Learning](https://sites.google.com/view/nobim). In the past, I have been part of the steering committee for the [Visual Intelligence Gradudate School](https://www.visual-intelligence.no/about/vigs) and part of the student council for the [NORA Research School](https://www.nora.ai/).
 
-I have previously been a guest researcher in the Image Processing Laboratory at the University of Valencia with Professor Gustau Camps-Valls and in the Understandable Machine Intelligence Laboratory at Technical University of Berlin with Professor Marina M.-C. Höhne.
+I have previously been a guest researcher in the Image Processing Laboratory at the University of Valencia with Professor Gustau Camps-Valls and in the Understandable Machine Intelligence Laboratory at the Technical University of Berlin with Professor Marina M.-C. Höhne.
 
 See [Google Scholar](https://scholar.google.no/citations?user=gUd35ngAAAAJ&hl=no) for a list of my publications.
 
