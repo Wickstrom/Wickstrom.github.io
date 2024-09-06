@@ -4,6 +4,7 @@ author_profile: true
 title: Talks
 ---
 
+* Invited talk at yearly conference for Norway’s largest trade union for engineers and technologists (NITO) (September, 2024).
 * Invited talk at national meeting for technology transfer offices in Norway (April, 2024).
 * Invited talk at yearly conference of The Confederation of Norwegian Enterprise Arctic (March, 2024).
 * Invited talk at AI Research Moonshots Workshop hosted by the Pioneer Centre for Artificial Intelligence (October, 2023).
