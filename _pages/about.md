@@ -18,6 +18,7 @@ See [Google Scholar](https://scholar.google.no/citations?user=gUd35ngAAAAJ&hl=no
 
 ### Recent news
 ======
+* Paper accepted at NeurIPS workshop on XAI (October, 2024).
 * Invited talk at yearly conference for Norway’s largest trade union for engineers and technologists (NITO) (September, 2024).
 * Paper accepted at ECCV workshop on XAI (August, 2024).
 * [Interviewed on national Norwegian radio about AI research (June, 2024)](https://radio.nrk.no/serie/distriktsprogram-troms/sesong/202406/DKTR01011424).
