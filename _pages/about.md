@@ -18,6 +18,8 @@ See [Google Scholar](https://scholar.google.no/citations?user=gUd35ngAAAAJ&hl=no
 
 ### Recent news
 ======
+* Received funding to develop national course on multi-modal learning (October, 2024).
+* Invited talk at the Danish Digitalization, Data Science and AI Confernece (October, 2024).
 * Paper accepted at NeurIPS workshop on XAI (October, 2024).
 * Invited talk at yearly conference for Norway’s largest trade union for engineers and technologists (NITO) (September, 2024).
 * Paper accepted at ECCV workshop on XAI (August, 2024).
