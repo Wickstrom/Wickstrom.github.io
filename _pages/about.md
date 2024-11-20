@@ -15,9 +15,9 @@ I have previously been a guest researcher in the Image Processing Laboratory at 
 
 See [Google Scholar](https://scholar.google.no/citations?user=gUd35ngAAAAJ&hl=no) for a list of my publications.
 
-
 ### Recent news
 ======
+* Received best paper award for the paper [Mixing up contrastive learning: Self-supervised representation learning for time series](https://www.sciencedirect.com/science/article/pii/S0167865522000502) published in Pattern Recognition Letters (November, 2024).
 * Received funding to develop national course on multi-modal learning (October, 2024).
 * Invited talk at the Danish Digitalization, Data Science and AI Confernece (October, 2024).
 * Paper accepted at NeurIPS workshop on XAI (October, 2024).
