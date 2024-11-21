@@ -24,7 +24,7 @@ I have either fully or co-developed parts of the following courses:
 * Summer School on Self-Supervised learning: Spring 2023 (NORA).
 * Special Curriculum in Self-Supervised Learning: Autumn 2021 (UiT).
 * Special Curriculum in Information Theory: Autumn 2019 (UiT).
-* Special Curriculum in Advanced Topics in Deep Learning: Autumn 2014 (UiT).
+* Special Curriculum in Advanced Topics in Deep Learning: Autumn 2024 (UiT).
 
 ## Teaching assistant
 
