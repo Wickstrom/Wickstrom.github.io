@@ -17,6 +17,8 @@ See [Google Scholar](https://scholar.google.no/citations?user=gUd35ngAAAAJ&hl=no
 
 ### Recent news
 ======
+* Got post-doc position from UiT High Score (April, 2025)
+* Two papers accepted at the World Congress of xAI (April, 2025)
 * Paper accepted at CVPR 2025 (March, 2025).
 * Hosted 3-day project on multimodal learning in Hamburg as part of EUGLOH workshop on machine learning for biomedical applications (February, 2025).
 * Received best paper award for the paper [Mixing up contrastive learning: Self-supervised representation learning for time series](https://www.sciencedirect.com/science/article/pii/S0167865522000502) published in Pattern Recognition Letters (November, 2024).
