@@ -26,13 +26,6 @@ I have either fully or co-developed parts of the following courses:
 * Special Curriculum in Self-Supervised Learning: Autumn 2021 (UiT).
 * Special Curriculum in Information Theory: Autumn 2019 and Spring 2025 (UiT / UiO).
 * Special Curriculum in Advanced Topics in Deep Learning: Autumn 2024 (UiT).
-* Special Curriculum in Collaborative Coding: Spring 2025 (UiT).
+* Special Curriculum in Collaborative Coding: Autumn 2024/2025 (UiT).
 * Summer School on Multimodal Learning: Spring 2025 (NORA).
-
-## Teaching assistant
-
-I have worked as a teaching assistant in the following courses:
-
-* Deep Learning (FYS-3033/8033): Spring 2019-2021 (UiT).
-* Pattern Recognition (FYS-3012/8012): Spring 2019-2021 (UiT).
-
+* Special Curriculum in Object Detection: Autumn 2025 (UiT).
