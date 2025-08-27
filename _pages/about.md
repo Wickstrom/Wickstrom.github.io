@@ -17,7 +17,8 @@ See [Google Scholar](https://scholar.google.no/citations?user=gUd35ngAAAAJ&hl=no
 
 ### Recent news
 ======
-* Paper accepted at MICCAI and ICCV 2025 workshops (August, 2025).
+* Won best post award at the Danish Digitalization, Data Science, and AI - D3A conference (August, 2025)
+* Papers accepted at MICCAI and ICCV 2025 workshops (August, 2025).
 * Granted industry phd-position from the Norwegian Research Council with the company KSAT (June, 2025).
 * Paper accepted at MICCAI 2025 (May, 2025).
 * Got post-doc position from UiT High Score (April, 2025)
