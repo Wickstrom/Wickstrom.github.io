@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an associate professor at UiT The Arctic University of Norway, the group leader of the [Machine Learning Group](https://machine-learning.uit.no), a principal investigator in the [SFI Visual Intelligence](https://www.visual-intelligence.no/), and the [SFF Integreat](https://www.integreat.no/). My main research area is deep learning, with a particular focus on explainability and learning with limited labels. I am also interested in uncertainty modeling, information theory, kernel methods, and medical image analysis.
+I am an associate professor at UiT The Arctic University of Norway, the group leader of the [UiT Machine Learning Group](https://machine-learning.uit.no), a principal investigator in the [SFI Visual Intelligence](https://www.visual-intelligence.no/), and the [SFF Integreat](https://www.integreat.no/). My main research area is deep learning, with a particular focus on explainability and learning with limited labels. I am also interested in uncertainty modeling, information theory, kernel methods, and medical image analysis.
 
 I am co-chair for the winter school of the yearly [Northern Light Deep Learning conference](https://www.nldl.org), a board member for the [Norwegian Association for Image Processing and Machine Learning](https://sites.google.com/view/nobim), and a member of the [ELLIS Society](https://ellis.eu/).
 
