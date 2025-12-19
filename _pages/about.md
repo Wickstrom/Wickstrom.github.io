@@ -17,6 +17,7 @@ See [Google Scholar](https://scholar.google.no/citations?user=gUd35ngAAAAJ&hl=no
 
 ### Recent news
 ======
+* Supervised best student paper at National Conference on Image Processing and Machine Learning (Oktober, 2025)
 * Won best post award at the Danish Digitalization, Data Science, and AI - D3A conference (August, 2025)
 * Papers accepted at MICCAI and ICCV 2025 workshops (August, 2025).
 * Granted industry phd-position from the Norwegian Research Council with the company KSAT (June, 2025).
