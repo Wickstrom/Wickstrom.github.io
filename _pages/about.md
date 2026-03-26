@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an associate professor at UiT The Arctic University of Norway, the group leader of the [UiT Machine Learning Group](https://machine-learning.uit.no), a principal investigator in the [SFI Visual Intelligence](https://www.visual-intelligence.no/), and the [SFF Integreat](https://www.integreat.no/). My main research area is deep learning, with a particular focus on explainability and learning with limited labels. I am also interested in uncertainty modeling, information theory, kernel methods, and medical image analysis.
+I am an associate professor at UiT The Arctic University of Norway, the group leader of the [UiT Machine Learning Group](https://machine-learning.uit.no), a principal investigator in the [SFI Visual Intelligence](https://www.visual-intelligence.no/), and the [SFF Integreat](https://www.integreat.no/). I am head of the Applied Physics and Mathematics study program at UiT. My main research area is deep learning, with a particular focus on explainability and learning with limited labels. I am also interested in uncertainty modeling, information theory, kernel methods, and medical image analysis.
 
 I am co-chair for the winter school of the yearly [Northern Light Deep Learning conference](https://www.nldl.org), a board member for the [Norwegian Association for Image Processing and Machine Learning](https://sites.google.com/view/nobim), and a member of the [ELLIS Society](https://ellis.eu/).
 
@@ -17,13 +17,14 @@ See [Google Scholar](https://scholar.google.no/citations?user=gUd35ngAAAAJ&hl=no
 
 ### Recent news
 ======
-* Supervised best student paper at National Conference on Image Processing and Machine Learning (Oktober, 2025)
-* Won best post award at the Danish Digitalization, Data Science, and AI - D3A conference (August, 2025)
+* Invited digital talk at the Centre for Artificial Intelligence - ZHAW School of Engineering in Winterthur, Switzerland (March, 2026).
+* Supervised best student paper at National Conference on Image Processing and Machine Learning (Oktober, 2025).
+* Won best post award at the Danish Digitalization, Data Science, and AI - D3A conference (August, 2025).
 * Papers accepted at MICCAI and ICCV 2025 workshops (August, 2025).
 * Granted industry phd-position from the Norwegian Research Council with the company KSAT (June, 2025).
 * Paper accepted at MICCAI 2025 (May, 2025).
-* Got post-doc position from UiT High Score (April, 2025)
-* Two papers accepted at the World Congress of xAI (April, 2025)
+* Got post-doc position from UiT High Score (April, 2025).
+* Two papers accepted at the World Congress of xAI (April, 2025).
 * Paper accepted at CVPR 2025 (March, 2025).
 * Hosted 3-day project on multimodal learning in Hamburg as part of EUGLOH workshop on machine learning for biomedical applications (February, 2025).
 * Received best paper award for the paper [Mixing up contrastive learning: Self-supervised representation learning for time series](https://www.sciencedirect.com/science/article/pii/S0167865522000502) published in Pattern Recognition Letters (November, 2024).
