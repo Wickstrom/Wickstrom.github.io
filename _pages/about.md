@@ -17,6 +17,7 @@ See [Google Scholar](https://scholar.google.no/citations?user=gUd35ngAAAAJ&hl=no
 
 ### Recent news
 ======
+* Served as opponent at PhD defense at NTNU (March, 2026).
 * Invited digital talk at the Centre for Artificial Intelligence - ZHAW School of Engineering in Winterthur, Switzerland (March, 2026).
 * Supervised best student paper at National Conference on Image Processing and Machine Learning (Oktober, 2025).
 * Won best post award at the Danish Digitalization, Data Science, and AI - D3A conference (August, 2025).
