@@ -19,8 +19,8 @@ See [Google Scholar](https://scholar.google.no/citations?user=gUd35ngAAAAJ&hl=no
 ======
 * Served as opponent at PhD defense at NTNU (March, 2026).
 * Invited digital talk at the Centre for Artificial Intelligence - ZHAW School of Engineering in Winterthur, Switzerland (March, 2026).
-* Supervised best student paper at National Conference on Image Processing and Machine Learning (Oktober, 2025).
-* Won best post award at the Danish Digitalization, Data Science, and AI - D3A conference (August, 2025).
+* Supervised best student paper at National Conference on Image Processing and Machine Learning (October, 2025).
+* Won best poster award at the Danish Digitalization, Data Science, and AI - D3A conference (August, 2025).
 * Papers accepted at MICCAI and ICCV 2025 workshops (August, 2025).
 * Granted industry phd-position from the Norwegian Research Council with the company KSAT (June, 2025).
 * Paper accepted at MICCAI 2025 (May, 2025).
@@ -30,7 +30,7 @@ See [Google Scholar](https://scholar.google.no/citations?user=gUd35ngAAAAJ&hl=no
 * Hosted 3-day project on multimodal learning in Hamburg as part of EUGLOH workshop on machine learning for biomedical applications (February, 2025).
 * Received best paper award for the paper [Mixing up contrastive learning: Self-supervised representation learning for time series](https://www.sciencedirect.com/science/article/pii/S0167865522000502) published in Pattern Recognition Letters (November, 2024).
 * Received funding to develop national course on multi-modal learning (October, 2024).
-* Invited talk at the Danish Digitalization, Data Science and AI Confernece (October, 2024).
+* Invited talk at the Danish Digitalization, Data Science and AI Conference (October, 2024).
 * Paper accepted at NeurIPS workshop on XAI (October, 2024).
 * Invited talk at yearly conference for Norway’s largest trade union for engineers and technologists (NITO) (September, 2024).
 * Paper accepted at ECCV workshop on XAI (August, 2024).

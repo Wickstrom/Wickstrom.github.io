@@ -4,7 +4,8 @@ author_profile: true
 title: Talks
 ---
 
-* Invited talk at the Danish Digitalization, Data Science and AI Confernece (October, 2024)
+* Invited digital talk at the Centre for Artificial Intelligence - ZHAW School of Engineering in Winterthur, Switzerland (March, 2026).
+* Invited talk at the Danish Digitalization, Data Science and AI Conference (October, 2024)
 * Invited talk at yearly conference for Norway’s largest trade union for engineers and technologists (NITO) (September, 2024).
 * Invited talk at national meeting for technology transfer offices in Norway (April, 2024).
 * Invited talk at yearly conference of The Confederation of Norwegian Enterprise Arctic (March, 2024).
