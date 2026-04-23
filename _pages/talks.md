@@ -4,6 +4,7 @@ author_profile: true
 title: Talks
 ---
 
+* Invited talk at the Arctic Sun Celebration 2026 event "What does AI do to us?" at UiT, Tromsø (April, 2026).
 * Invited digital talk at the Centre for Artificial Intelligence - ZHAW School of Engineering in Winterthur, Switzerland (March, 2026).
 * Invited talk at the Danish Digitalization, Data Science and AI Conference (October, 2024)
 * Invited talk at yearly conference for Norway’s largest trade union for engineers and technologists (NITO) (September, 2024).

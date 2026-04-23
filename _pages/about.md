@@ -17,16 +17,17 @@ See [Google Scholar](https://scholar.google.no/citations?user=gUd35ngAAAAJ&hl=no
 
 ### Recent news
 ======
+* Invited talk at the Arctic Sun Celebration 2026 event "What does AI do to us?" at UiT (April, 2026).
 * Served as opponent at PhD defense at NTNU (March, 2026).
 * Invited digital talk at the Centre for Artificial Intelligence - ZHAW School of Engineering in Winterthur, Switzerland (March, 2026).
 * Supervised best student paper at National Conference on Image Processing and Machine Learning (October, 2025).
 * Served as opponent at PhD defense at the Technical University of Berlin (October, 2025).
-* Won best poster award at the Danish Digitalization, Data Science, and AI - D3A conference (August, 2025).
 
 <details>
 <summary>Older news</summary>
 
 <ul>
+<li>Won best poster award at the Danish Digitalization, Data Science, and AI - D3A conference (August, 2025).</li>
 <li>Papers accepted at MICCAI and ICCV 2025 workshops (August, 2025).</li>
 <li>Granted industry PhD position from the Norwegian Research Council with the company KSAT (June, 2025).</li>
 <li>Paper accepted at MICCAI 2025 (May, 2025).</li>
