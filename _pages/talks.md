@@ -4,6 +4,7 @@ author_profile: true
 title: Talks
 ---
 
+* Invited talk at the annual meeting of the University Library at UiT (June, 2026).
 * Invited talk at the MNT seminar at UiT (April, 2026).
 * Invited talk at the Arctic Sun Celebration 2026 event "What does AI do to us?" at UiT, Tromsø (April, 2026).
 * Invited digital talk at the Centre for Artificial Intelligence - ZHAW School of Engineering in Winterthur, Switzerland (March, 2026).
