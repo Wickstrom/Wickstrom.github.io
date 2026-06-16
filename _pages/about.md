@@ -17,6 +17,7 @@ See [Google Scholar](https://scholar.google.no/citations?user=gUd35ngAAAAJ&hl=no
 
 ### Recent news
 ======
+* Two papers accepted at MICCAI 2026 (June, 2026).
 * Invited talk at the MNT seminar at UiT (April, 2026).
 * Invited talk at the Arctic Sun Celebration 2026 event "What does AI do to us?" at UiT (April, 2026).
 * Served as opponent at PhD defense at NTNU (March, 2026).
