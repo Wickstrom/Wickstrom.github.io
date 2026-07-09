@@ -55,7 +55,7 @@
 .news-carousel__date {
   margin: 0 0 0.35em;
   font-size: $type-size-7;
-  color: $muted-text;
+  color: $gray;
   text-transform: uppercase;
   letter-spacing: 0.05em;
 }
@@ -116,7 +116,7 @@
   cursor: pointer;
 }
 .news-carousel__dot:hover {
-  background: $muted-text;
+  background: $gray;
 }
 .news-carousel__dot.is-active {
   background: $link-color;
