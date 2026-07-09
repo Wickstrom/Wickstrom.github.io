@@ -18,8 +18,9 @@ See [Google Scholar](https://scholar.google.no/citations?user=gUd35ngAAAAJ&hl=no
 ### Recent news
 ======
 * Paper accepted to IEEE TPAMI (June, 2026).
-  * [Read earlier versions here](https://ieeexplore.ieee.org/document/11093621).
+  * [read earlier version here](https://ieeexplore.ieee.org/document/11093621).
 * Two papers accepted at MICCAI 2026 (June, 2026).
+  * [read earlier version here](https://arxiv.org/abs/2511.08328).
 * Invited talk at the annual meeting of the University Library at UiT (June, 2026).
 * Invited talk at the MNT seminar at UiT (April, 2026).
 * Invited talk at the Arctic Sun Celebration 2026 event "What does AI do to us?" at UiT (April, 2026).
