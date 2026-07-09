@@ -1,8 +1,13 @@
+{% assign recent_count = 0 %}
+{% for item in site.data.news %}{% unless item.archived %}{% assign recent_count = recent_count | plus: 1 %}{% endunless %}{% endfor %}
+{% if recent_count > 0 %}
+{% assign recent_index = 0 %}
 <section class="news-carousel" aria-roledescription="carousel" aria-label="Recent news">
   <div class="news-carousel__viewport">
     <ul class="news-carousel__track" data-news-carousel-track>
-      {% for item in site.data.news %}
-      <li class="news-carousel__slide{% if forloop.first %} is-active{% endif %}" role="group" aria-roledescription="slide" aria-label="News {{ forloop.index }} of {{ site.data.news.size }}">
+      {% for item in site.data.news %}{% unless item.archived %}
+      {% assign recent_index = recent_index | plus: 1 %}
+      <li class="news-carousel__slide{% if recent_index == 1 %} is-active{% endif %}" role="group" aria-roledescription="slide" aria-label="News {{ recent_index }} of {{ recent_count }}">
         <img class="news-carousel__image" src="{{ item.image }}" alt="">
         <div class="news-carousel__body">
           <p class="news-carousel__date">{{ item.date }}</p>
@@ -10,16 +15,19 @@
           {% if item.link %}<a class="news-carousel__link" href="{{ item.link.url }}">{{ item.link.text }}</a>{% endif %}
         </div>
       </li>
-      {% endfor %}
+      {% endunless %}{% endfor %}
     </ul>
   </div>
   <div class="news-carousel__controls">
     <button class="news-carousel__btn news-carousel__btn--prev" type="button" data-news-carousel-prev aria-label="Previous news"><span aria-hidden="true">&#8249;</span></button>
     <ol class="news-carousel__dots" role="tablist">
-      {% for item in site.data.news %}
-      <li><button class="news-carousel__dot{% if forloop.first %} is-active{% endif %}" type="button" role="tab" data-news-carousel-dot="{{ forloop.index0 }}" aria-label="Show news {{ forloop.index }} of {{ site.data.news.size }}"></button></li>
-      {% endfor %}
+      {% assign recent_index = 0 %}
+      {% for item in site.data.news %}{% unless item.archived %}
+      {% assign recent_index = recent_index | plus: 1 %}
+      <li><button class="news-carousel__dot{% if recent_index == 1 %} is-active{% endif %}" type="button" role="tab" data-news-carousel-dot="{{ recent_index | minus: 1 }}" aria-label="Show news {{ recent_index }} of {{ recent_count }}"></button></li>
+      {% endunless %}{% endfor %}
     </ol>
     <button class="news-carousel__btn news-carousel__btn--next" type="button" data-news-carousel-next aria-label="Next news"><span aria-hidden="true">&#8250;</span></button>
   </div>
 </section>
+{% endif %}
