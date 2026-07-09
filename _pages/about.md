@@ -17,16 +17,7 @@ See [Google Scholar](https://scholar.google.no/citations?user=gUd35ngAAAAJ&hl=no
 
 ### Recent news
 ======
-* Paper accepted to IEEE TPAMI (June, 2026).
-  * [read earlier version here](https://ieeexplore.ieee.org/document/11093621).
-* Two papers accepted at MICCAI 2026 (June, 2026).
-  * [read earlier version here](https://arxiv.org/abs/2511.08328).
-* Invited talk at the annual meeting of the University Library at UiT (June, 2026).
-* Invited talk at the MNT seminar at UiT (April, 2026).
-* Invited talk at the Arctic Sun Celebration 2026 event "What does AI do to us?" at UiT (April, 2026).
-* Served as opponent at PhD defense at NTNU (March, 2026).
-* Invited digital talk at the Centre for Artificial Intelligence - ZHAW School of Engineering in Winterthur, Switzerland (March, 2026).
-* Supervised best student paper at National Conference on Image Processing and Machine Learning (October, 2025).
+{% include news-carousel.html %}
 
 <details>
 <summary>Older news</summary>

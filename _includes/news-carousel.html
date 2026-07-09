@@ -1,0 +1,56 @@
+{% if site.data.news and site.data.news.size > 0 %}
+<section class="news-carousel" aria-roledescription="carousel" aria-label="Recent news">
+  <div class="news-carousel__viewport">
+    <ul class="news-carousel__track" data-news-carousel-track>
+      {% for item in site.data.news %}
+      <li class="news-carousel__slide{% if forloop.first %} is-active{% endif %}"
+          role="group"
+          aria-roledescription="slide"
+          aria-label="{{ forloop.index }} of {{ site.data.news.size }}"
+          {% unless forloop.first %}aria-hidden="true"{% endunless %}>
+        {% if item.image %}
+        <img class="news-carousel__image" src="{{ item.image }}" alt="">
+        {% endif %}
+        <div class="news-carousel__body">
+          {% if item.date %}
+          <time class="news-carousel__date" datetime="{{ item.date | date: '%Y-%m-%d' }}">{{ item.date | date: '%B %Y' }}</time>
+          {% endif %}
+          <p class="news-carousel__text">{{ item.text }}</p>
+          {% if item.link and item.link.url %}
+          <a class="news-carousel__link" href="{{ item.link.url }}">{{ item.link.text }}</a>
+          {% endif %}
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  <div class="news-carousel__controls">
+    <button class="news-carousel__btn news-carousel__btn--prev"
+            type="button"
+            data-news-carousel-prev
+            aria-label="Previous news">
+      <span aria-hidden="true">&#8249;</span>
+    </button>
+
+    <ol class="news-carousel__dots" role="tablist">
+      {% for item in site.data.news %}
+      <li>
+        <button class="news-carousel__dot{% if forloop.first %} is-active{% endif %}"
+                type="button"
+                role="tab"
+                data-news-carousel-dot="{{ forloop.index0 }}"
+                aria-label="Show news {{ forloop.index }} of {{ site.data.news.size }}"></button>
+      </li>
+      {% endfor %}
+    </ol>
+
+    <button class="news-carousel__btn news-carousel__btn--next"
+            type="button"
+            data-news-carousel-next
+            aria-label="Next news">
+      <span aria-hidden="true">&#8250;</span>
+    </button>
+  </div>
+</section>
+{% endif %}
