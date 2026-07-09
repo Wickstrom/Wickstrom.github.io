@@ -17,6 +17,8 @@ See [Google Scholar](https://scholar.google.no/citations?user=gUd35ngAAAAJ&hl=no
 
 ### Recent news
 ======
+* Paper accepted to IEEE TPAMI (June, 2026).
+  * [Read earlier versions here](https://ieeexplore.ieee.org/document/11093621).
 * Two papers accepted at MICCAI 2026 (June, 2026).
 * Invited talk at the annual meeting of the University Library at UiT (June, 2026).
 * Invited talk at the MNT seminar at UiT (April, 2026).
