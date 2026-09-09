@@ -4,6 +4,7 @@ author_profile: true
 title: Talks
 ---
 
+* Invited talk "KI og fremtiden for administrative tjenester" at the gathering of the entire Department of Organisation and Economy (org.øk) at UiT, Tromsø (September, 2026).
 * Invited talk at the annual meeting of the University Library at UiT (June, 2026).
 * Invited talk at the MNT seminar at UiT (April, 2026).
 * Invited talk at the Arctic Sun Celebration 2026 event "What does AI do to us?" at UiT, Tromsø (April, 2026).

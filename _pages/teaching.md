@@ -29,3 +29,5 @@ I have either fully or co-developed parts of the following courses:
 * Special Curriculum in Collaborative Coding: Autumn 2024/2025/2026 (UiT).
 * Summer School on Multimodal Learning: Spring 2025 (NORA).
 * Special Curriculum in Object Detection: Autumn 2025 (UiT).
+* Special Curriculum in Neural Operators: Autumn 2026 (UiT).
+* Special Curriculum in Graph Neural Networks: Autumn 2026 (UiT).
