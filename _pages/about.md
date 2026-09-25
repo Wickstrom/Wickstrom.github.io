@@ -17,7 +17,7 @@ See [Google Scholar](https://scholar.google.no/citations?user=gUd35ngAAAAJ&hl=no
 
 ### Recent news
 ======
-{% include news-carousel.html %}
+{% include news-list.html %}
 
 See [all news](/news/) including the archive.
 

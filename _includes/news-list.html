@@ -1,24 +1,9 @@
----
-permalink: /news/
-title: "News"
-author_profile: true
----
-
-### Recent news
-======
-
-{% include news-list.html %}
-
-<details class="news-archive">
-<summary>Older news</summary>
-
 <ul class="news-list">
-  {% for item in site.data.news %}{% if item.archived %}
+  {% for item in site.data.news %}{% unless item.archived %}
   <li class="news-list__item">
     <span class="news-list__date">{{ item.date }}</span>
     <span class="news-list__text">{{ item.text }}</span>
     {% if item.link %} <a class="news-list__link" href="{{ item.link.url }}">{{ item.link.text }}</a>{% endif %}
   </li>
-  {% endif %}{% endfor %}
+  {% endunless %}{% endfor %}
 </ul>
-</details>
